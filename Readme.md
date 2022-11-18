@@ -1,6 +1,6 @@
 ### Hi there, this is Yashendra Goyal
 
-## I'm a Professional Full Stack Developer!!
+## I'm a Full Stack Developer!!
 
 ### Languages and Tools I work with:
 
